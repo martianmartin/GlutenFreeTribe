@@ -6,10 +6,11 @@
         <title></title>
     </head>
     <body>
-
+        <div id="header">Welcome to the Stream</div>
+        <div id="streamArea">
             <div class="stream" id="photoStream"></div>
             <div class="stream" id="videoStream"></div>
             <div class="stream" id="articleStream"></div>
-
+        </div>    
     </body>
 </html>
