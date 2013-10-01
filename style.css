@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    white-space: normal;
+}
+
+.stream{
+    width: 33.333333333333%;
+    border: none;
+    height:600px;
+    display: inline-block;
+   }
+#photoStream{
+    background-color: blue;
+}
+#videoStream{
+    background-color: green;
+}
+#articleStream{
+    background-color: red;
+    
+}
